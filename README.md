@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6)
 <div align="center" style="display: flex; justify-content: center; margin: auto;">
 <details>
   <summary>기술</summary>
