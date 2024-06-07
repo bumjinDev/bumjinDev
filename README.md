@@ -20,15 +20,15 @@
       <td align="center"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Java"></td>
       <td align="center">JAVASCRIPT</td>
     </tr>
-     <br>
-     <br>
+  </table>
+  <br>
   <p>프레임워크</p>
   <table>
-    <tr>
-      <td align="center">#</td>
-      <td align="center">FRAMEWORK</td>
-    </tr>
+    
   </table>
+     <br>
+     <br>
+
 </details>
 </div>
 
