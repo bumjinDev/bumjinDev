@@ -12,6 +12,16 @@
 <br>
 <details>
 <summary>Development Skill</summary>
+<table>
+  <tr>
+    <td align="center"></td>
+    <td align="center">헤더2</td>
+  </tr>
+  <tr>
+    <td align="center">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</td>
+    <td align="center">JAVA</td>
+  </tr>
+</table>
 
 </details>
 <br>
