@@ -22,7 +22,7 @@
     </tr>
      <tr>
       <td align="center"><img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" alt="Java"></td>
-      <td align="center">RPROGRAMING</td>
+      <td align="center">R</td>
     </tr>
   </table>
   <br>
