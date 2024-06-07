@@ -3,7 +3,6 @@
 <details>
   <summary>기술</summary>
   <br>
-  <p>개발 OS</p>
   <table>
     <tr>
       <td align="center">#</td>
@@ -19,7 +18,6 @@
     </tr>
   </table>
   <br>
-  <p>개발 언어</p>
   <table>
     <tr>
       <td align="center">#</td>
@@ -39,7 +37,6 @@
     </tr>
   </table>
   <br>
-  <p>프레임워크</p>
   <table>
     <tr>
       <td>#</td>
@@ -51,7 +48,6 @@
     </tr>
   </table>
   <br>
-  <p>데이터베이스</p>
    <table>
     <tr>
       <td>#</td>
