@@ -1,7 +1,6 @@
 <div align="center" style="display: flex; justify-content: center; margin: auto;">
 <details>
 <summary>technology stack</summary>
-    <p>Development OS</p>
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br>
