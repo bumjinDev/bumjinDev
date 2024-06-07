@@ -2,6 +2,7 @@
 <details>
   <br>
   <p>개발 OS</p>
+  <table>
     <tr>
       <td align="center">#</td>
       <td align="center">OS</td>
@@ -14,8 +15,6 @@
       <td align="center">Linux</td>
       <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></td>
     </tr>
-  <table>
-    <tr</tr>
   </table>
   <br>
   <br>
