@@ -62,6 +62,19 @@
     </tr>
   </table>
 </details>
+<details>
+  <summary>주요 프로젝트</summary>
+   <table>
+    <tr>
+      <td>프로젝트 명</td>
+      <td>프로젝트 확인</td>
+    </tr>
+    <tr>
+      <td align="center">wherehouse</td>
+      <td align="center"><a href="https://github.com/bumjinDev/wherehouse"/></a></td>
+    </tr>
+  </table>
+</details>
 </div>
 
 <div align="center" style="display: flex; justify-content: center;">
