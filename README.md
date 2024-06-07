@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; margin: auto; width: 50%;">
 <details>
 <summary>Development Environment</summary>
     
