@@ -63,7 +63,7 @@
   </table>
 </details>
 <details>
-  <summary>주요 프로젝트</summary>
+  <summary>프로젝트</summary>
   <br>
    <table>
     <tr>
