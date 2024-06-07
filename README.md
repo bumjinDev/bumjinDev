@@ -45,8 +45,8 @@
       <td>DATABASE</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Java"></td>
-      <td align="center">SPRING</td>
+      <td align="center"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Java"></td>
+      <td align="center">ORACLE</td>
     </tr>
   </table>
 </details>
