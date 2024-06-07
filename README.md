@@ -2,8 +2,21 @@
 <details>
   <br>
   <p>개발 OS</p>
-    <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+    <tr>
+      <td>#</td>
+      <td>OS</td>
+    </tr>
+    <tr>
+      <td>Windows11</td>
+      <td><img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11"></td>
+    </tr>
+    <tr>
+      <td>Linux</td>
+      <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></td>
+    </tr>
+  <table>
+    <tr</tr>
+  </table>
   <br>
   <br>
   <p>개발 언어</p>
