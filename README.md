@@ -15,10 +15,10 @@
 <table>
   <tr>
     <td align="center"></td>
-    <td align="center">헤더2</td>
+    <td align="center">Language</td>
   </tr>
   <tr>
-    <td align="center">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</td>
+    <td align="center"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></td>
     <td align="center">JAVA</td>
   </tr>
 </table>
