@@ -17,7 +17,6 @@
     </tr>
   </table>
   <br>
-  <br>
   <p>개발 언어</p>
   <table>
     <tr>
