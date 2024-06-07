@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlignY=20)
 <div align="center" style="display: flex; justify-content: center; margin: auto;">
 <details>
   <summary>기술</summary>
