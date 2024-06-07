@@ -3,16 +3,16 @@
   <br>
   <p>개발 OS</p>
     <tr>
-      <td>#</td>
-      <td>OS</td>
+      <td align="center">#</td>
+      <td align="center">OS</td>
     </tr>
     <tr>
-      <td>Windows11</td>
-      <td><img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11"></td>
+       <td align="center">Windows11</td>
+      <td align="center"><img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11"></td>
     </tr>
     <tr>
-      <td>Linux</td>
-      <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></td>
+      <td align="center">Linux</td>
+      <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></td>
     </tr>
   <table>
     <tr</tr>
