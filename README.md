@@ -14,7 +14,7 @@
 <summary>Development Skill</summary>
 <table>
   <tr>
-    <td align="center"></td>
+    <td align="center">#</td>
     <td align="center">Language</td>
   </tr>
   <tr>
