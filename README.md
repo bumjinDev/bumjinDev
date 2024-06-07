@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00)
+![header](https://github.com/kyechan99/capsule-render?tab=readme-ov-file#waving)
 <div align="center" style="display: flex; justify-content: center; margin: auto;">
 <details>
   <summary>기술</summary>
