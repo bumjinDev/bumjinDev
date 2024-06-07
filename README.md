@@ -21,14 +21,14 @@
 </details>
 </div>
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<div style="display: flex; justify-content: center;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bumjinDev&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=40% height=90%/></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bumjinDev&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=45% /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=bumjinDev&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=40% height=90% />
+  <img src="https://github-readme-stats.vercel.app/api?username=bumjinDev&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=45% height=300px />
 </a>
-
 </div>
+
 
 <br>
 
