@@ -21,7 +21,6 @@
       <td align="center">JAVASCRIPT</td>
     </tr>
      <br>
-  <p>프레임 워크</p>
   <table>
     <tr>
       <td align="center">#</td>
