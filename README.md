@@ -1,5 +1,6 @@
 <div align="center" style="display: flex; justify-content: center; margin: auto;">
 <details>
+  <summary>세부 기술</summary>
   <br>
   <p>개발 OS</p>
   <table>
