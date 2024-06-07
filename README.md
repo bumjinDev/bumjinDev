@@ -20,6 +20,10 @@
       <td align="center"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Java"></td>
       <td align="center">JAVASCRIPT</td>
     </tr>
+     <tr>
+      <td align="center"><img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" alt="Java"></td>
+      <td align="center">RPROGRAMING</td>
+    </tr>
   </table>
   <br>
   <p>프레임워크</p>
@@ -33,9 +37,18 @@
       <td align="center">SPRING</td>
     </tr>
   </table>
-     <br>
-     <br>
-
+  <br>
+  <p>데이터베이스</p>
+   <table>
+    <tr>
+      <td>#</td>
+      <td>DATABASE</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Java"></td>
+      <td align="center">SPRING</td>
+    </tr>
+  </table>
 </details>
 </div>
 
