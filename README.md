@@ -65,7 +65,7 @@
    <table>
     <tr>
       <td align="center">프로젝트 명</td>
-      <td align="center">프로젝트 확인</td>
+      <td align="center">프로젝트</td>
     </tr>
     <tr>
       <td align="center">wherehouse</td>
