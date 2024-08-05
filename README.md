@@ -9,7 +9,6 @@
   '거주지 추천 서비스’는 MZ 세대들이 서울 내 집을 구할 때 가격, 안정성, 편의성 정보를 기반으로 거주지를 추천하는 서비스입니다. 이 서비스는 Spring Framework를 기반으로 개발되었으며, 서울 지도 상에서 거주지 추천 정보를 이용할 수 있도록 KakaoMap API 적용 및 Ajax를 활용하여 사용자 경험 또한   고려한 설계를 하였습니다.
 
   '실시간 채팅 프로그램’은 HTTP 기반인 WebSocket 기술을 적용하여 지속적인 세션 하에서 채팅 기능을 구현한 프로그램입니다.
-  
 </p>
 
   <summary>보유 기술</summary>
@@ -101,7 +100,6 @@
   </table>
 </details>
 </div>
-
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
