@@ -85,7 +85,7 @@
     </tr>
     <tr>
       <td align="center">wherehouse</td>
-      <td align="center">2023.09.11~2024.04.01</td>
+      <td align="center" width = 20px>2023.09.11~2024.04.01</td>
       <td align="center">
         1. 1차 프로젝트 - UI :<br>    KakaoMap API를 적용하여 사용자가 임의의 핀 포인트 적용 시 반경 500M 내 CCTV 마커 생성.<br>
         2. 2차 프로젝트 - Servlet : <br>    게시판 및 회원 가입 기능 구현.<br>
