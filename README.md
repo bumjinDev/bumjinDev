@@ -95,11 +95,11 @@
       <td align="center"><a href="https://github.com/bumjinDev/wherehouse">github.com/bumjinDev/wherehouse</a></td>
     </tr>
      <tr>
-      <td align="center">RealTimeChatProgram</td>
+      <td align="center">ChatProgram</td>
        <td></td>
        <td></td>
        <td></td>
-      <td align="center"><a href="https://github.com/bumjinDev/RealTimeChatProgram">github.com/bumjinDev/RealTimeChatProgram</a></td>
+      <td align="center"><a href="https://github.com/bumjinDev/ChatProgram">github.com/bumjinDev/ChatProgram</a></td>
     </tr>
   </table>
 </details>
