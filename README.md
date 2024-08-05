@@ -77,11 +77,11 @@
   <br>
   <table>
     <colgroup>
-      <col style="width: 10%;">
-      <col style="width: 15%;">
-      <col style="width: 35%;">
-      <col style="width: 30%;">
-      <col style="width: 10%;">
+      <col style="width: 10em;">
+      <col style="width: 15em;">
+      <col style="width: 35em;">
+      <col style="width: 30em;">
+      <col style="width: 10em;">
     </colgroup>
     <tr>
       <td align="center">프로젝트 명</td>
