@@ -75,7 +75,28 @@
 <details>
   <summary>프로젝트</summary>
   <br>
+  <style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  .narrow-col {
+    width: 50px; /* 원하는 너비로 조정 */
+  }
+</style>
   <table>
+    <colgroup>
+    <col class="narrow-col">
+    <col class="narrow-col">
+    <col style="width: 35%;">
+    <col style="width: 30%;">
+    <col style="width: 10%;">
+  </colgroup>
     <tr>
       <td align="center" width="50px">프로젝트 명</td>
       <td align="center" width="50px">기간</td>
