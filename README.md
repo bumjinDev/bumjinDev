@@ -11,8 +11,6 @@
   '실시간 채팅 프로그램’은 HTTP 기반인 WebSocket 기술을 적용하여 지속적인 세션 하에서 채팅 기능을 구현한 프로그램입니다.
   
 </p>
-  
-<details>
 
   <summary>기술</summary>
   <table>
@@ -70,7 +68,7 @@
       <td align="center">ORACLE</td>
     </tr>
   </table>
-</details>
+
 <details>
   <summary>주요 프로젝트</summary>
   <br>
