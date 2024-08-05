@@ -73,33 +73,34 @@
   </table>
 </details>
 <details>
-  <summary>프로젝트</summary>
-  <br>
-   <table>
-    <tr>
-      <td align="center" width="110px">프로젝트 명</td>
-      <td align="center" width="110px">기간</td>
-      <td align="center">역할</td>
-      <td align="center">설명</td>
-      <td align="center">프로젝트</td>
-    </tr>
-    <tr>
-      <td align="center" width="110px">wherehouse</td>
-      <td align="center" width="110px">2023.09.11~2024.04.01</td>
-      <td align="center">
-        1. 1차 프로젝트 - UI :<br>    KakaoMap API를 적용하여 사용자가 임의의 핀 포인트 적용 시 반경 500M 내 CCTV 마커 생성.<br>
-        2. 2차 프로젝트 - Servlet : <br>    게시판 및 회원 가입 기능 구현.<br>
-        3. 3차 프로젝트 - SpringFrameWork : <br>    기존 거주지 추천 페이지 및 지역구 지도 페이지 그리고 회원 가입 및 게시판 기능을 Spring FrameWork 로 변환.
-      </td>
-      <td>MZ 세대의 서울 내 거주지 선택 시 도움이 되기 위한 거주지 추천 서비스</td>
-      <td align="center"><a href="https://github.com/bumjinDev/wherehouse">github.com/bumjinDev/wherehouse</a></td>
-    </tr>
-     <tr>
-      <td align="center">RealTimeChatProgram</td>
-      <td align="center"><a href="https://github.com/bumjinDev/RealTimeChatProgram">github.com/bumjinDev/RealTimeChatProgram</a></td>
-    </tr>
-  </table>
+  <summary>프로젝트</summary>
+  <br>
+  <table>
+    <tr>
+      <td align="center" width="150px">프로젝트 명</td>
+      <td align="center" width="150px">기간</td>
+      <td align="center">역할</td>
+      <td align="center">설명</td>
+      <td align="center">프로젝트</td>
+    </tr>
+    <tr>
+      <td align="center" width="150px">wherehouse</td>
+      <td align="center" width="150px">2023.09.11~2024.04.01</td>
+      <td align="center">
+        1. 1차 프로젝트 - UI :<br> KakaoMap API를 적용하여 사용자가 임의의 핀 포인트 적용 시 반경 500M 내 CCTV 마커 생성.<br>
+        2. 2차 프로젝트 - Servlet : <br> 게시판 및 회원 가입 기능 구현.<br>
+        3. 3차 프로젝트 - SpringFrameWork : <br> 기존 거주지 추천 페이지 및 지역구 지도 페이지 그리고 회원 가입 및 게시판 기능을 Spring FrameWork 로 변환.
+      </td>
+      <td>MZ 세대의 서울 내 거주지 선택 시 도움이 되기 위한 거주지 추천 서비스</td>
+      <td align="center"><a href="https://github.com/bumjinDev/wherehouse">github.com/bumjinDev/wherehouse</a></td>
+    </tr>
+    <tr>
+      <td align="center" width="150px">RealTimeChatProgram</td>
+      <td align="center" width="150px"><a href="https://github.com/bumjinDev/RealTimeChatProgram">github.com/bumjinDev/RealTimeChatProgram</a></td>
+    </tr>
+  </table>
 </details>
+
 </div>
 
 
