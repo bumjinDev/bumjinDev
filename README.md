@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 <div align="center" style="display: flex; justify-content: center; margin: auto;">
 
-<p>
+<p aligin="left">
   저는 직업전문학교와 대학교에서 컴퓨터 전공을 수료한 후, 국비 교육 과정을 통해 리눅스 서버와 네트워크 장비를 다루는 것에 매력을 느껴 필드 엔지니어로서 일하다가 근본적인 기술 개발, 버그 수정 등의 기술자로서 해야 할 업무가 매우 제한적이라고 느껴저 개발자로서의 커리어를 시작하였습니다.
 
   개발한 프로젝트로는 '거주지 추천 서비스’와 토이 프로젝트인 '실시간 채팅 프로그램’이 있습니다.
