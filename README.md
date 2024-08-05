@@ -86,7 +86,7 @@
     <tr>
       <td align="center">wherehouse</td>
       <td align="center">2023.09.11 ~ <br>2024.04.01</td>
-      <td>MZ 세대의 서울 내 거주지 선택 시 도움이 되기<br>위한 거주지 추천 서비스</td>
+      <td align="center">MZ 세대의 서울 내 거주지 선택 시 도움이 되기<br>위한 거주지 추천 서비스</td>
       <td align="center"><br>
         [ 1차 프로젝트 - UI ]
         <div align="center">KakaoMap API를 적용 하여<br>사용자 임의 핀 포인트 적용 시<br>반경 500M 내 CCTV 마커 생성.</div><br>[ 2차 프로젝트 - Servlet ]
