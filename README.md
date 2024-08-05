@@ -15,7 +15,6 @@
 <details>
 
   <summary>기술</summary>
-  <br>
   <table>
     <tr>
       <td align="center">#</td>
