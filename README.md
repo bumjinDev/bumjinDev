@@ -77,8 +77,8 @@
   <br>
    <table>
     <tr>
-      <td align="center" width="20px">프로젝트 명</td>
-      <td align="center" width="20px">기간</td>
+      <td align="center" width="100px">프로젝트 명</td>
+      <td align="center" width="100px">기간</td>
       <td align="center">역할</td>
       <td align="center">설명</td>
       <td align="center">프로젝트</td>
