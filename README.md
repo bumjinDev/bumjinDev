@@ -73,7 +73,7 @@
     </tr>
      <tr>
       <td align="center">RealTimeChatProgram</td>
-      <td align="center"><a href="https:/github.com/bumjinDev/RealTimeChatProgram">github.com/bumjinDev/RealTimeChatProgram</a></td>
+      <td align="center"><a href="https://github.com/bumjinDev/RealTimeChatProgram">github.com/bumjinDev/RealTimeChatProgram</a></td>
     </tr>
   </table>
 </details>
