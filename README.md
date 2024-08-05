@@ -76,23 +76,16 @@
   <summary>프로젝트</summary>
   <br>
   <table>
-    <colgroup>
-      <col style="width: 10em;">
-      <col style="width: 15em;">
-      <col style="width: 35em;">
-      <col style="width: 30em;">
-      <col style="width: 10em;">
-    </colgroup>
     <tr>
-      <td align="center">프로젝트 명</td>
-      <td align="center">기간</td>
+      <td align="center" width="120px">프로젝트 명</td>
+      <td align="center" width="120px">기간</td>
       <td align="center">역할</td>
       <td align="center">설명</td>
       <td align="center">프로젝트</td>
     </tr>
     <tr>
-      <td align="center">wherehouse<br></td>
-      <td align="center">2023.09.11~2024.04.01<br></td>
+      <td align="center" width="120px">wherehouse<br></td>
+      <td align="center" width="120px">2023.09.11~2024.04.01<br></td>
       <td align="center">
         1. 1차 프로젝트 - UI :<br> KakaoMap API를 적용하여 사용자가 임의의 핀 포인트 적용 시 반경 500M 내 CCTV 마커 생성.<br>
         2. 2차 프로젝트 - Servlet : <br> 게시판 및 회원 가입 기능 구현.<br>
