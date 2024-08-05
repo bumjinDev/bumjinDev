@@ -90,7 +90,7 @@
       <td align="center"><br>
         [ 1차 프로젝트 - UI ]
         <div align="center">KakaoMap API를 적용 하여<br>사용자 임의 핀 포인트 적용 시<br>반경 500M 내 CCTV 마커 생성.</div><br>[ 2차 프로젝트 - Servlet ]
-        <div align="center">게시판 및 회원 가입 기능 구현.</div><br>[ 3차 프로젝트 - Spring ]<div align="center">기존 거주지 추천 페이지와 지역구 지도 페이지 및 회원 가입 및 게시판 기능을 Spring 으로 변환.</div><br>
+        <div align="center">게시판 및 회원 가입 기능 구현.</div><br>[ 3차 프로젝트 - Spring ]<div align="center">기존 거주지 추천 페이지와 지역구<br>지도 페이지 및 회원 가입 및 게시판 기능을 Spring 으로 변환.</div><br>
       </td>
       <td align="center"><a href="https://github.com/bumjinDev/wherehouse">github.com/bumjinDev/wherehouse</a></td>
     </tr>
