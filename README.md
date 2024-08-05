@@ -77,14 +77,14 @@
   <br>
    <table>
     <tr>
-      <td align="center">프로젝트 명</td>
-      <td align="center">기간</td>
+      <td align="center" width="20px">프로젝트 명</td>
+      <td align="center" width="20px">기간</td>
       <td align="center">역할</td>
       <td align="center">설명</td>
       <td align="center">프로젝트</td>
     </tr>
     <tr>
-      <td align="center">wherehouse</td>
+      <td align="center" width="20px">wherehouse</td>
       <td align="center" width="20px">2023.09.11~2024.04.01</td>
       <td align="center">
         1. 1차 프로젝트 - UI :<br>    KakaoMap API를 적용하여 사용자가 임의의 핀 포인트 적용 시 반경 500M 내 CCTV 마커 생성.<br>
