@@ -91,6 +91,7 @@
         2. 2차 프로젝트 - Servlet : 게시판 및 회원 가입 기능 구현.<br>
         3. 3차 프로젝트 - SpringFrameWork : 기존 거주지 추천 페이지 및 지역구 지도 페이지 그리고 회원 가입 및 게시판 기능을 Spring FrameWork 로 변환.
       </td>
+      <td>MZ 세대의 서울 내 거주지 선택 시 도움이 되기 위한 거주지 추천 서비스</td>
       <td align="center"><a href="https://github.com/bumjinDev/wherehouse">github.com/bumjinDev/wherehouse</a></td>
     </tr>
      <tr>
