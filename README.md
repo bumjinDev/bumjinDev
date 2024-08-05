@@ -75,57 +75,31 @@
 <details>
   <summary>프로젝트</summary>
   <br>
-   <div align="center" style="display: flex; justify-content: center; margin: auto;">
-
-<p align="left">
-</p>
-
-<details>
-<summary>프로젝트</summary>
-<br>
-<table style="width: 100%; border-collapse: collapse;">
-    <thead>
-        <tr>
-            <th style="width: 25%;">프로젝트 명</th>
-            <th style="width: 15%;">기간</th>
-            <th style="width: 20%;">역할</th>
-            <th style="width: 25%;">설명</th>
-            <th style="width: 15%;">프로젝트</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>프로젝트 A</td>
-            <td>2023.01.01 ~ 2023.12.31</td>
-            <td>개발</td>
-            <td>프로젝트 A 설명</td>
-            <td><a href="https://github.com/example">링크</a></td>
-        </tr>
-        </tbody>
-</table>
+   <table>
+    <tr>
+      <td align="center" width="80%">프로젝트 명</td>
+      <td align="center" width="80%">기간</td>
+      <td align="center">역할</td>
+      <td align="center">설명</td>
+      <td align="center">프로젝트</td>
+    </tr>
+    <tr>
+      <td align="center" width="80%">wherehouse</td>
+      <td align="center" width="80%">2023.09.11~2024.04.01</td>
+      <td align="center">
+        1. 1차 프로젝트 - UI :<br>    KakaoMap API를 적용하여 사용자가 임의의 핀 포인트 적용 시 반경 500M 내 CCTV 마커 생성.<br>
+        2. 2차 프로젝트 - Servlet : <br>    게시판 및 회원 가입 기능 구현.<br>
+        3. 3차 프로젝트 - SpringFrameWork : <br>    기존 거주지 추천 페이지 및 지역구 지도 페이지 그리고 회원 가입 및 게시판 기능을 Spring FrameWork 로 변환.
+      </td>
+      <td>MZ 세대의 서울 내 거주지 선택 시 도움이 되기 위한 거주지 추천 서비스</td>
+      <td align="center"><a href="https://github.com/bumjinDev/wherehouse">github.com/bumjinDev/wherehouse</a></td>
+    </tr>
+     <tr>
+      <td align="center">RealTimeChatProgram</td>
+      <td align="center"><a href="https://github.com/bumjinDev/RealTimeChatProgram">github.com/bumjinDev/RealTimeChatProgram</a></td>
+    </tr>
+  </table>
 </details>
-</div>
-
-<style>
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-    padding: 10px;
-    text-align: center;
-}
-
-/* 반응형 디자인 (예시) */
-@media (max-width: 768px) {
-    table {
-        width: 100%;
-    }
-    th, td {
-        padding: 5px;
-        font-size: 14px;
-    }
-}
-</style>
-
 </div>
 
 
