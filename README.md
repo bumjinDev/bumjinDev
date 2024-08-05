@@ -12,7 +12,7 @@
   
 </p>
 
-  <summary>기술</summary>
+  <summary>보유 기술</summary>
   <table>
     <tr>
       <td align="center">#</td>
