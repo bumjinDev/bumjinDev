@@ -68,7 +68,6 @@
     </tr>
   </table>
 
-<details>
   <summary>주요 프로젝트</summary>
   <br>
    <table>
@@ -98,7 +97,7 @@
       <td align="center"><a href="https://github.com/bumjinDev/ChatProgram">github.com/bumjinDev/ChatProgram</a></td>
     </tr>
   </table>
-</details>
+
 </div>
 
 <div align="center" style="display: flex; justify-content: center;">
