@@ -91,7 +91,7 @@
     </tr>
      <tr>
       <td align="center">ChatProgram</td>
-         <td align="center">2023.06.25 ~ <br>2024.07.06</td>
+         <td align="center">2024.06.25 ~ <br>2024.07.06</td>
          <td align="center">WebSocket을 활용한 실시간 채팅 프로그램</td>
          <td align="center">UI 개발 및 Spring 서버 개발</td>
       <td align="center"><a href="https://github.com/bumjinDev/ChatProgram">github.com/bumjinDev/ChatProgram</a></td>
