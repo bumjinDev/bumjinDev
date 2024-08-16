@@ -93,15 +93,15 @@
       <td align="center">ChatProgram</td>
          <td align="center">2024.06.25 ~ <br>2024.07.06</td>
          <td align="center">WebSocket을 활용한 실시간 채팅 프로그램</td>
-         <td align="center">UI 개발 및 Spring 서버 개발</td>
+         <td align="center">개발 총괄</td>
       <td align="center"><a href="https://github.com/bumjinDev/ChatProgram">github.com/bumjinDev/ChatProgram</a></td>
     </tr>
      <tr>
       <td align="center">영화관 추천 서비스</td>
          <td align="center">2024.08.16 ~ <br>개발 중 </td>
          <td align="center">사용자의 선호도 또는 지정 위치 기준 1km 반경 내 영화관 추천 서비스</td>
-         <td align="center">UI 개발 및 Spring 서버 개발</td>
-      <td align="center"><a href="https://github.com/bumjinDev/ChatProgram">github.com/bumjinDev/ChatProgram</a></td>
+         <td align="center">개발 총괄</td>
+      <td align="center"><a href="https://github.com/bumjinDev/MovieFinder">https://github.com/bumjinDev/MovieFinder</a></td>
     </tr>
   </table>
 
