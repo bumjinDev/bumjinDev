@@ -96,6 +96,13 @@
          <td align="center">UI 개발 및 Spring 서버 개발</td>
       <td align="center"><a href="https://github.com/bumjinDev/ChatProgram">github.com/bumjinDev/ChatProgram</a></td>
     </tr>
+     <tr>
+      <td align="center">영화관 추천 서비스</td>
+         <td align="center">2024.08.16 ~ <br>개발 중 </td>
+         <td align="center">사용자의 선호도 또는 지정 위치 기준 1km 반경 내 영화관 추천 서비스</td>
+         <td align="center">UI 개발 및 Spring 서버 개발</td>
+      <td align="center"><a href="https://github.com/bumjinDev/ChatProgram">github.com/bumjinDev/ChatProgram</a></td>
+    </tr>
   </table>
 
 </div>
