@@ -97,11 +97,11 @@
       <td align="center"><a href="https://github.com/bumjinDev/ChatProgram">github.com/bumjinDev/ChatProgram</a></td>
     </tr>
      <tr>
-      <td align="center">영화관 추천 서비스</td>
+      <td align="center">FTP Server</td>
          <td align="center">2024.08.16 ~ <br>개발 중 </td>
-         <td align="center">사용자의 선호도 또는 지정 위치 기준 1km 반경 내 영화관 추천 서비스</td>
+         <td align="center">각 사용자 별 FTP 파일 업로드 및 공유 시스템</td>
          <td align="center">개발 총괄</td>
-      <td align="center"><a href="https://github.com/bumjinDev/MovieFinder">github.com/bumjinDev/MovieFinder</a></td>
+      <td align="center"><a href="https://github.com/bumjinDev/FTPServer">github.com/bumjinDev/MovieFinder</a></td>
     </tr>
   </table>
 
