@@ -52,8 +52,10 @@
       <td>FRAMEWORK</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Java"></td>
-      <td align="center">SPRING</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Java">
+      </td>
+      <td align="center">SPRING Boot</td>
     </tr>
   </table>
   <br>
