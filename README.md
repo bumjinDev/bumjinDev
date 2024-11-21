@@ -68,6 +68,26 @@
       <td align="center"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Java"></td>
       <td align="center">ORACLE</td>
     </tr>
+<br>
+   <table>
+    <tr>
+      <td>#</td>
+      <td>Security</td>
+    </tr>
+    <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security">
+    </td>
+    <td align="center">Spring Security</td>
+  </tr>
+
+  <!-- JWT Row -->
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+    </td>
+    <td align="center">JWT</td>
+  </tr>
   </table>
 
   <summary>주요 프로젝트</summary>
