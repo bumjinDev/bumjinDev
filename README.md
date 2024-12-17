@@ -75,20 +75,61 @@
       <td>Security</td>
     </tr>
     <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security">
-    </td>
-    <td align="center">Spring Security</td>
-  </tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security">
+      </td>
+      <td align="center">Spring Security</td>
+    </tr>
 
-  <!-- JWT Row -->
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
-    </td>
-    <td align="center">JWT</td>
-  </tr>
-  </table>
+    <!-- JWT Row -->
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+      </td>
+      <td align="center">JWT</td>
+    </tr>
+
+    <!-- HTTPS Row -->
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/HTTPS-0096D6?style=for-the-badge&logo=lets-encrypt&logoColor=white" alt="HTTPS">
+      </td>
+      <td align="center">HTTPS</td>
+    </tr>
+
+    <!-- JPA Row -->
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA">
+      </td>
+      <td align="center">JPA</td>
+    </tr>
+
+    <!-- Jenkins Row -->
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+      </td>
+      <td align="center">Jenkins</td>
+    </tr>
+
+    <!-- AWS Row -->
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+      </td>
+      <td align="center">AWS</td>
+    </tr>
+
+    <!-- Docker Row -->
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      </td>
+      <td align="center">Docker</td>
+    </tr>
+</table>
+
 
   <summary>주요 프로젝트</summary>
   <br>
