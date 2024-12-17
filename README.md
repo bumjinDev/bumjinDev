@@ -11,123 +11,143 @@
   '실시간 채팅 프로그램’은 HTTP 기반인 WebSocket 기술을 적용하여 지속적인 세션 하에서 채팅 기능을 구현한 프로그램입니다.
 </p>
 
-  <summary>보유 기술</summary>
-  <table>
-    <tr>
-      <td align="center">#</td>
-      <td align="center">OS</td>
-    </tr>
-    <tr>
-       <td align="center">Windows11</td>
-      <td align="center"><img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11"></td>
-    </tr>
-    <tr>
-      <td align="center">Linux</td>
-      <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></td>
-    </tr>
-  </table>
-  <br>
-  <table>
-    <tr>
-      <td align="center">#</td>
-      <td align="center">LANGAGE</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></td>
-      <td align="center">JAVA</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Java"></td>
-      <td align="center">JAVASCRIPT</td>
-    </tr>
-     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" alt="Java"></td>
-      <td align="center">R</td>
-    </tr>
-  </table>
-  <br>
-  <table>
-    <tr>
-      <td>#</td>
-      <td>FRAMEWORK</td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Java">
-      </td>
-      <td align="center">SPRING Boot</td>
-    </tr>
-  </table>
-  <br>
-   <table>
-    <tr>
-      <td>#</td>
-      <td>DATABASE</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Java"></td>
-      <td align="center">ORACLE</td>
-    </tr>
+ <summary>보유 기술</summary>
+
+<!-- OS -->
+<table>
+  <tr>
+    <td align="center">#</td>
+    <td align="center">OS</td>
+  </tr>
+  <tr>
+    <td align="center">Windows 11</td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows 11">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Linux</td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+    </td>
+  </tr>
+</table>
 <br>
-   <table>
-    <tr>
-      <td>#</td>
-      <td>Security</td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security">
-      </td>
-      <td align="center">Spring Security</td>
-    </tr>
 
-    <!-- JWT Row -->
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
-      </td>
-      <td align="center">JWT</td>
-    </tr>
+<!-- LANGUAGE -->
+<table>
+  <tr>
+    <td align="center">#</td>
+    <td align="center">LANGUAGE</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    </td>
+    <td align="center">JAVA</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    </td>
+    <td align="center">JAVASCRIPT</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" alt="R">
+    </td>
+    <td align="center">R</td>
+  </tr>
+</table>
+<br>
 
-    <!-- HTTPS Row -->
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/HTTPS-0096D6?style=for-the-badge&logo=lets-encrypt&logoColor=white" alt="HTTPS">
-      </td>
-      <td align="center">HTTPS</td>
-    </tr>
+<!-- FRAMEWORK -->
+<table>
+  <tr>
+    <td align="center">#</td>
+    <td align="center">FRAMEWORK</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
+    </td>
+    <td align="center">SPRING BOOT</td>
+  </tr>
+</table>
+<br>
 
-    <!-- JPA Row -->
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA">
-      </td>
-      <td align="center">JPA</td>
-    </tr>
+<!-- DATABASE -->
+<table>
+  <tr>
+    <td align="center">#</td>
+    <td align="center">DATABASE</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+    </td>
+    <td align="center">ORACLE</td>
+  </tr>
+</table>
+<br>
 
-    <!-- Jenkins Row -->
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-      </td>
-      <td align="center">Jenkins</td>
-    </tr>
+<!-- SECURITY -->
+<table>
+  <tr>
+    <td align="center">#</td>
+    <td align="center">SECURITY</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security">
+    </td>
+    <td align="center">SPRING SECURITY</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+    </td>
+    <td align="center">JWT</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTTPS-0096D6?style=for-the-badge&logo=lets-encrypt&logoColor=white" alt="HTTPS">
+    </td>
+    <td align="center">HTTPS</td>
+  </tr>
+</table>
+<br>
 
-    <!-- AWS Row -->
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-      </td>
-      <td align="center">AWS</td>
-    </tr>
-
-    <!-- Docker Row -->
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-      </td>
-      <td align="center">Docker</td>
-    </tr>
+<!-- TOOLS -->
+<table>
+  <tr>
+    <td align="center">#</td>
+    <td align="center">TOOLS</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA">
+    </td>
+    <td align="center">JPA</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+    </td>
+    <td align="center">JENKINS</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+    </td>
+    <td align="center">AWS</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    </td>
+    <td align="center">DOCKER</td>
+  </tr>
 </table>
 
 
