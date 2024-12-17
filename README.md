@@ -118,11 +118,11 @@
 </table>
 <br>
 
-<!-- TOOLS -->
+<!-- DATABASE -->
 <table>
   <tr>
     <td align="center">#</td>
-    <td align="center">TOOLS</td>
+    <td align="center">DATABASE</td>
   </tr>
   <tr>
     <td align="center">
@@ -130,17 +130,44 @@
     </td>
     <td align="center">JPA</td>
   </tr>
+</table>
+<br>
+
+<!-- CI/CD -->
+<table>
+  <tr>
+    <td align="center">#</td>
+    <td align="center">CI/CD</td>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
     </td>
     <td align="center">JENKINS</td>
   </tr>
+</table>
+<br>
+
+<!-- CLOUD -->
+<table>
+  <tr>
+    <td align="center">#</td>
+    <td align="center">CLOUD</td>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
     </td>
     <td align="center">AWS</td>
+  </tr>
+</table>
+<br>
+
+<!-- CONTAINERIZATION -->
+<table>
+  <tr>
+    <td align="center">#</td>
+    <td align="center">CONTAINERIZATION</td>
   </tr>
   <tr>
     <td align="center">
@@ -149,6 +176,7 @@
     <td align="center">DOCKER</td>
   </tr>
 </table>
+
 
 
   <summary>주요 프로젝트</summary>
