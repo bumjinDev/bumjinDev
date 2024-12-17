@@ -157,7 +157,7 @@
 <table>
   <tr>
     <td align="center">#</td>
-    <td align="center">CONTAINERIZATION</td>
+    <td align="center">CONTAINER</td>
   </tr>
   <tr>
     <td align="center">
