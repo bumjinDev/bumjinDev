@@ -88,6 +88,12 @@
     </td>
     <td align="center">ORACLE</td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA">
+    </td>
+    <td align="center">JPA</td>
+  </tr>
 </table>
 <br>
 
@@ -117,22 +123,6 @@
   </tr>
 </table>
 <br>
-
-<!-- DATABASE -->
-<table>
-  <tr>
-    <td align="center">#</td>
-    <td align="center">DATABASE</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA">
-    </td>
-    <td align="center">JPA</td>
-  </tr>
-</table>
-<br>
-
 <!-- CI/CD -->
 <table>
   <tr>
