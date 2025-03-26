@@ -2,21 +2,22 @@
 
 <div align="center">
 
-### 실제 서비스 환경을 전제로 한 프로젝트를 설계하여, 단순 학습이 아닌 실무 적용 가능한 구조를 구현하는 데 집중하였습니다.
+### 인증·배포·캐싱 구조를 중심으로 백엔드 시스템 전반을 직접 설계하고 운영한 프로젝트 중심 개발자입니다.
 
 <p align="left">
-  Spring Boot 기반 프로젝트를 통해 인증, 배포, 캐싱, 무중단 운영까지의 전 과정을 아우르는 백엔드 구조를 구성하였습니다. JWT, Redis, Jenkins, Docker, AWS를 통합 적용하여 현실적인 배포 구조를 실현하고, 서비스 수준 인프라 환경을 구성하는 데 주력했습니다.
-  단순 기능 구현이 아닌, 시간 효율과 유지보수성을 고려한 구조적 개발을 통해 실무와 유사한 환경을 설계·운영하였습니다.
+  Spring Boot 기반 실전형 프로젝트들을 통해 인증, 캐싱, 배포, 무중단 운영에 이르는 백엔드 전반의 핵심 기술을 직접 설계하고 구현했습니다. JWT, Redis, Jenkins, Docker, AWS 등 실무 중심 기술을 통합 적용하여, 단순한 기능 구현을 넘어 실사용 가능한 시스템 구조와 서비스 수준 인프라를 구축하는 데 집중하였습니다.
 </p>
 
 ---
 
 ### 프로젝트
 
-| 제목 | 기간 | 개요 | 역할 | 게등 | 
+| 제목 | 기간 | 개요 | 역할 | 기술 |
 |--|--|--|--|--|
-| [**WHEREHOUSE**](https://github.com/bumjinDev/wherehouse_SpringBoot) | `2023.09.11 ~ 2024.04.01` | Spring Boot 기반 프로젝트는 JWT, Redis, Jenkins, Docker, AWS 등 실무 핵심 기술들을 적용하여 실제 배포 가능한 수준의 아키텍처를 구현했습니다. 이를 통해 실용적이고 현실적인 백엔드 구조에 대한 이해를 심화하였고, 무중단 배포, 인증 시스템, 캐시 설계 등 각 기술 요소를 구조적으로 통합할 수 있었습니다. | JWT 기반 인증, 회원 관리 시스템, 조건 기반 주거지 추천 알고리즘 등 핵심 기능을 중심으로 전체 백엔드 구조를 직접 설계하고 구현하였습니다. | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| [**ChatProgram**](https://github.com/bumjinDev/ChatProgram) | `2024.06.25 ~ 2024.07.06` | WebSocket 기반 1:N 실시간 채팅 시스템. HTML + Spring Framework 기반 | 채팅방 생성/입장, 세션 추적, 메시지 라우팅 로직 직접 구현 | ![WebSocket](https://img.shields.io/badge/WebSocket-20232A?style=flat-square&logo=websocket&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) |
+| [**WHEREHOUSE** - 1차 (UI 개발)](https://github.com/bumjinDev/wherehouse_SpringBoot) | `2023.09 ~ 2023.10` | KakaoMap API 기반 지도 UI 설계. 사용자 클릭 위치 반경 500m 내 CCTV 마커 시각화 중심 개발 | 사용자 상호작용 기반 지도 이벤트 처리, CCTV 마커 생성 로직 구현 | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![KakaoMap API](https://img.shields.io/badge/Kakao%20Map-FFCD00?style=flat-square&logoColor=black) |
+| [**WHEREHOUSE** - 2차 (Servlet 백엔드)](https://github.com/bumjinDev/wherehouse_SpringBoot) | `2023.11 ~ 2024.01` | 로그인/회원가입 및 게시판 기능을 Java Servlet 기반으로 구현. 기본 MVC 아키텍처 설계 | 게시글 CRUD, 회원 정보 처리, DAO 분리 설계 | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Servlet](https://img.shields.io/badge/Servlet-6DB33F?style=flat-square&logo=java&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white) |
+| [**WHEREHOUSE** - 3차 (Spring Boot + 실무 설계)](https://github.com/bumjinDev/wherehouse_SpringBoot) | `2024.02 ~ 2024.04` | JWT, Redis, Jenkins, Docker, AWS를 적용해 무중단 배포 및 인증 구조까지 통합한 실무 수준 아키텍처 구현 | 인증 필터 체인, JWT 클레임 동기화, Redis 캐시 TTL 분리, CI/CD 구축 등 전반 설계 및 구현 | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
+| [**ChatProgram**](https://github.com/bumjinDev/ChatProgram) | `2024.06.25 ~ 2024.07.06` | WebSocket 기반 1:N 실시간 채팅 시스템. HTML + Spring Framework 기반으로 채팅방 생성 및 메시지 라우팅 기능 구현 | 세션 ID 추적, 메시지 브로드캐스트, 채팅방 등록/해제 로직 직접 설계 | ![WebSocket](https://img.shields.io/badge/WebSocket-20232A?style=flat-square&logo=websocket&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) |
 
 ---
 
